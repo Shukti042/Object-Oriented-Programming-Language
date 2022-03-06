@@ -1,0 +1,2 @@
+ABC132,2007,Yellow,,,Toyota,Corolla,590
+MARY,2017,Dark Grey,Blue,Red,BMW,116d,551322
